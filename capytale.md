@@ -2,7 +2,7 @@
 
 ## Accès
 
- - [https://www.capytale.fr/](https://www.capytale.fr/)
+ - [https://capytale.fr/](https://capytale.fr/)
  - par l'ENT, onglet **Services Externes**
 
 ## Présentation
